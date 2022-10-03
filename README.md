@@ -11,14 +11,14 @@ Online Photo Editors
 
 
 For image creation:
-:wc_lensflare: https://www.photopea.com/
+https://www.photopea.com/
 https://pixlr.com/
 https://picresize.com/
 https://kidpix.app/
 
 
 For gif making:
-:wc_lensflare: https://ezgif.com/
+https://ezgif.com/
 https://imgflip.com/gif-maker
 https://en.bloggif.com/ 
 
