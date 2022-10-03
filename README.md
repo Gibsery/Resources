@@ -4,9 +4,6 @@ READ THE WIKI BEFORE ATTEMPTING TO CREATE WEIRDCORE!
 
 https://aesthetics.fandom.com/wiki/Weirdcore
 
-
-most recommended!
-
 Nothing in here is pay-to-use, all of these are free!
 
 Online Photo Editors
