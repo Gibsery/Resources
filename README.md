@@ -33,6 +33,7 @@ https://en.bloggif.com/
 
 
 PC Photo Editors
+
 https://www.gimp.org/
 
 https://www.clipstudio.net/en/
@@ -45,6 +46,7 @@ We're not gonna tell you how to pirate photoshop
 
 
 Mobile Photo Editors
+
 https://picsart.com/
 
 https://youdoodle.net/
